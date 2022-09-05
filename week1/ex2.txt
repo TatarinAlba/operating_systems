@@ -1,0 +1,19 @@
+    1  man man
+    2  jobs
+    3  pwd
+    4  touch newFile
+    5  rm newFile
+    6  mkdir hello
+    7  rm -r hello
+    8  whoami
+    9  hostname > file.txt
+   10  rm file.txt
+   11  ls
+   12  touch oneFile
+   13  touch twoFiles
+   14  cat ex1.sh ex1.txt > twoFiles
+   15  rm oneFile
+   16  rm twoFiles
+   17  history > ex2.txt
+   18  ./ex2.sh 
+   19  ./ex2.sh 

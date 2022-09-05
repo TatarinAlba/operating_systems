@@ -1,0 +1,14 @@
+/home/albert:
+total 48
+drwxr-xr-x  2 albert albert 4096 May 31 08:41 Videos
+drwxr-xr-x  2 albert albert 4096 May 31 08:41 Music
+drwxrwxr-x  4 albert albert 4096 Jun  8 17:54 Programs
+drwxr-xr-x  2 albert albert 4096 Jun 17 11:28 Templates
+drwxr-xr-x  2 albert albert 4096 Jun 17 11:28 Public
+drwx------ 12 albert albert 4096 Jun 23 11:03 snap
+drwxr-xr-x  2 albert albert 4096 Jun 27 10:08 Documents
+drwxr-xr-x  2 albert albert 4096 Jul  3 12:53 Desktop
+drwxrwxr-x  9 albert albert 4096 Sep  4 13:24 Work
+drwxrwxr-x  6 albert albert 4096 Sep  5 14:50 study
+drwxr-xr-x  3 albert albert 4096 Sep  5 15:03 Downloads
+drwxr-xr-x  2 albert albert 4096 Sep  5 20:34 Pictures
