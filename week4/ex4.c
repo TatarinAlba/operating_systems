@@ -19,7 +19,11 @@ int main(int argc, char **argv) {
         } else if (strcmp(command, "make_directory") == 0) {
             system("mkdir");
         } else if (strcmp(command, "run") == 0) {
-            system("execve"); 
+            char* what_to_run = malloc(sizeof(command));
+            for (int i = 4; i < sizeof(command); i++) {
+                what_to_run[i - 4] = command[i];
+            }
+            execve(what_to_run); 
         }
         printf(">> ");
     }
