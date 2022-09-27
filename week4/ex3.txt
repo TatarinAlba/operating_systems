@@ -1,0 +1,2 @@
+For the n = 3 we have 8 processes, when we write n = 5 we have 32 processes.
+By other experemetning we can conclude that for n input we have 2^n processes.
