@@ -1,0 +1,1 @@
+Compare shortest job next with the FCFS algorithm we see that average waiting time and average turnaround time is less in the first algorithm.
