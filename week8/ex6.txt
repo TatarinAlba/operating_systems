@@ -1,0 +1,1 @@
+Because our page are encoded by 13 bits we have 16 - 13 = 3, therefore we have 2 ^ 3 = 8 pages. And the number of records will be 4 * 8192

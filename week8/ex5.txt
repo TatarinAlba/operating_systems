@@ -1,0 +1,2 @@
+Physical addres it's stright direction in memory instead of the virtual addres.
+From the CPU (where was generated virt address) with helping of relocating register we have a physical addres in main memory from the virtual one.
