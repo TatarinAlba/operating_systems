@@ -1,0 +1,5 @@
+For increasing hit/miss ratio for n number of pages we could
+1) Have input with only one page frame: 10 10 10 10 10 10 10 10
+2) Or we could input references to n pages and then repeat them all:
+1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 (so the number of id's variation should not succeed number of pages)
+If we want to decrease hit/miss ration we should write data without repletion, so they should variate as most as they could  
