@@ -1,0 +1,11 @@
+-rw-rw-r-- 1 albert albert 17 ноя 15 23:12 _ex3.txt
+-rw-rw-r-- 1 albert albert 17 ноя 15 23:12 _ex3.txt
+-rwxrw-rwx 1 albert albert 17 ноя 15 23:12 _ex3.txt
+-rwxrwxrwx 1 albert albert 17 ноя 15 23:12 _ex3.txt
+-rwxrwxrwx 1 albert albert 17 ноя 15 23:17 _ex3.txt
+-rw-rw-rw- 1 albert albert 17 ноя 15 23:17 _ex3.txt
+-rwxrw-rwx 1 albert albert 17 ноя 15 23:17 _ex3.txt
+-rwxrwxrwx 1 albert albert 17 ноя 15 23:17 _ex3.txt
+660 means read write premissions for user, group and no premissions for others
+775 means read write execute premissions for user, group, for others only read and execute
+777 means read write execute for all type of users
